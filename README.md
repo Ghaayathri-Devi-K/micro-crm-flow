@@ -1,4 +1,4 @@
-# 🎓 ORITM Graduation Surprise — Serverless Micro CRM
+# 🎓 Serverless Micro CRM
 
 This project delivers a fully automated, branded graduation email surprise using a **serverless, event-driven architecture** on AWS — with *zero manual steps* and *zero SaaS cost*.  
 It shows how smart **cloud primitives**, **secure transport**, and **system design principles** can replace heavy CRM tools.
